@@ -4,6 +4,12 @@
     <columns>PRODUCT2.NAME</columns>
     <columns>PRODUCT2.DESCRIPTION</columns>
     <columns>PRODUCT2.FAMILY</columns>
+    <columns>PRODUCT2.ACTIVE</columns>
     <filterScope>Everything</filterScope>
+    <filters>
+        <field>PRODUCT2.DESCRIPTION</field>
+        <operation>contains</operation>
+        <value>SSW</value>
+    </filters>
     <label>All Products</label>
 </ListView>

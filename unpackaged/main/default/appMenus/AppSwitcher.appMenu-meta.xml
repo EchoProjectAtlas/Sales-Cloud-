@@ -184,8 +184,4 @@
         <name>standard__PreconfiguredLightningServiceConsole</name>
         <type>CustomApplication</type>
     </appMenuItems>
-    <appMenuItems>
-        <name>standard__Integration</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
 </AppMenu>

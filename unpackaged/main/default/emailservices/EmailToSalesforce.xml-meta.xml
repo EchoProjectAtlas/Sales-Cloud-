@@ -25,6 +25,20 @@
         <localPart>emailtosalesforce</localPart>
         <runAsUser>programmedirector@echo-ms.com</runAsUser>
     </emailServicesAddresses>
+    <emailServicesAddresses>
+        <authorizedSenders>carriemeeks@echo-ms.com</authorizedSenders>
+        <developerName>emailtosalesforce3</developerName>
+        <isActive>true</isActive>
+        <localPart>emailtosalesforce</localPart>
+        <runAsUser>carriemeeks@echo-ms.com</runAsUser>
+    </emailServicesAddresses>
+    <emailServicesAddresses>
+        <authorizedSenders>samuelwright@echo-ms.com</authorizedSenders>
+        <developerName>emailtosalesforce4</developerName>
+        <isActive>true</isActive>
+        <localPart>emailtosalesforce</localPart>
+        <runAsUser>samuelwright@echo-ms.com</runAsUser>
+    </emailServicesAddresses>
     <functionInactiveAction>Bounce</functionInactiveAction>
     <functionName>EmailToSalesforce</functionName>
     <isActive>true</isActive>
